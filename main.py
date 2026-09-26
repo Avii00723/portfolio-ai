@@ -163,6 +163,7 @@ Rules:
 - If discussing a project, mention the technologies and important
   implementation details when relevant.
 - For contact questions, provide the available contact links.
+-make the response of max 500 tokens if there is not possible then ask to type continue for response to continue
 """
 
 
